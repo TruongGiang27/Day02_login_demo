@@ -1,0 +1,54 @@
+.khung_Ngoai{
+    width: 1229px;
+    height: 961px;
+}
+.khungG{
+    width: 368px;
+    height: 416px;
+    margin: auto;
+    padding: 48px 40px 36px;
+    border: 2px solid rgb(216, 210, 210);
+    background-color: white;
+}
+.google{
+    width: 368px;
+    height: 24px;
+    text-align: center;
+    font-size: 25px;
+    font-family:Arial;
+}
+.mail{
+    width: 366px;
+    height: 64px;
+    border: 2px solid rgb(216, 210, 210);
+    text-align:start;
+}
+.login{
+    width: auto;
+    height:auto;    
+    text-align: center;
+    font-family:Arial;
+}
+.login2{
+    width: auto;
+    height:auto;    
+    text-align: center;
+    font-family:Arial;
+}
+.khungGG{
+    width: 368px;
+    height: 412px;
+    margin: auto;
+    background-color:white;
+}
+.sub{
+    color: blue;
+}
+.sub1{
+    color: rgb(255, 255, 255);
+}
+.sign_next{
+    display:flex;
+    justify-content: space-between;
+    font-family:Arial;
+}
