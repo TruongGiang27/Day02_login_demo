@@ -1,14 +1,16 @@
-.khung_Ngoai{
-    width: 1229px;
-    height: 961px;
+.border{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
 }
-.khungG{
+.border1{
     width: 368px;
     height: 416px;
-    margin: auto;
+    margin: auto 0;
     padding: 48px 40px 36px;
     border: 2px solid rgb(216, 210, 210);
     background-color: white;
+    font-family:Arial;
 }
 .google{
     width: 368px;
@@ -16,12 +18,6 @@
     text-align: center;
     font-size: 25px;
     font-family:Arial;
-}
-.mail{
-    width: 366px;
-    height: 64px;
-    border: 2px solid rgb(216, 210, 210);
-    text-align:start;
 }
 .login{
     width: auto;
@@ -35,7 +31,7 @@
     text-align: center;
     font-family:Arial;
 }
-.khungGG{
+.border2{
     width: 368px;
     height: 412px;
     margin: auto;
@@ -43,12 +39,18 @@
 }
 .sub{
     color: blue;
+    font-family:Arial;
 }
 .sub1{
     color: rgb(255, 255, 255);
 }
-.sign_next{
+.sign_next{   
     display:flex;
     justify-content: space-between;
     font-family:Arial;
+}
+
+.email{
+    margin 1px 1px;
+    padding: 20px 20px ;
 }
